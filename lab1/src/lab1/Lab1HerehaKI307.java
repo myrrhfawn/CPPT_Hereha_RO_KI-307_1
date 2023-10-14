@@ -43,7 +43,6 @@ public class Lab1HerehaKI307 {
 
             	}
             	if(j >= matrixSize - fillCounter - 1) {
-                	System.out.print("j: " + j + " i: " + i + "\n");
             		jaggedArray[i][j] = fillCharacter;
             	}
             	if (fillCounter == matrixSize/2) {

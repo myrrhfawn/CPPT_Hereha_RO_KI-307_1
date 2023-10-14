@@ -2,8 +2,21 @@ package lab1;
 import java.io.*;
 import java.util.Scanner;
 
-public class Lab1HerehaKI307 {
 
+/**
+* Клас Lab1HerehaKI307 реалізує програму згідно варіанту 6 до лабораторної роботи №1
+*/
+public class Lab1HerehaKI307 {
+	
+	/**
+	* Статичний метод main є точкою входу в програму
+	*
+	*@author Hereha Rostyslav
+	* @param args
+	* @throws FileNotFoundException
+	*
+	*/
+	
 	public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введіть розмір квадратної матриці: ");

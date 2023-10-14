@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI307.Hereha.Lab4","l":"ExpressionCalculator"}];updateSearchResults();

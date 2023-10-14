@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI307.Hereha.Lab2","l":"Plane"},{"p":"KI307.Hereha.Lab2","l":"PlaneDriver"}];updateSearchResults();

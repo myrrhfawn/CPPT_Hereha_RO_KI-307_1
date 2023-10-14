@@ -2,7 +2,7 @@
 /**
 * lab 2 package
 */
-package KI307.Hereha.Lab2;
+package KI307.Hereha.Lab3;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -10,13 +10,14 @@ import java.util.Date;
 /**
 * Клас що реалізує предметну область Літаку у вигляді класу.
 */
-public class Plane {
+public abstract class Plane {
     // Поля класу, що описують складові частини літака
     private String model;
     private Engine engine;
     private Pilot pilot;
     private AircraftFactory factory;
     private int passengerCapacity;
+    
     
     // Конструктори
     public Plane(String model, Engine engine, Pilot pilot, AircraftFactory factory, int passengerCapacity) {
@@ -39,6 +40,7 @@ public class Plane {
         this.factory = new AircraftFactory(country, state, name);
         this.passengerCapacity = passengerCapacity;
     }
+
 
     // Методи для доступу до полів класу
     public String getModel() {
@@ -75,9 +77,7 @@ public class Plane {
     }
 
     // Інші методи класу, що відповідають предметній області
-    public void takeOff() {
-        logActivity("Літак " + model + " вилетів.");
-    }
+    public abstract void takeOff();
     
     // Метод класу, що відповідає за логування посадки
     public void land() {

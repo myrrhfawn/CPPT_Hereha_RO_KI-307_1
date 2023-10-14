@@ -16,3 +16,15 @@ Sat Oct 14 14:08:23 EEST 2023: До літака Boeing 747 додано 50 па
 Sat Oct 14 14:08:23 EEST 2023: Літак Airbus A320 вилетів.
 Sat Oct 14 14:08:23 EEST 2023: Літак Airbus A320 приземлився.
 Sat Oct 14 14:08:23 EEST 2023: До літака Airbus A320 додано 30 пасажирів.
+Sat Oct 14 14:18:31 EEST 2023: Літак Boeing 747 вилетів.
+Sat Oct 14 14:18:31 EEST 2023: Літак Boeing 747 приземлився.
+Sat Oct 14 14:18:31 EEST 2023: До літака Boeing 747 додано 50 пасажирів.
+Sat Oct 14 14:18:31 EEST 2023: Літак Airbus A320 вилетів.
+Sat Oct 14 14:18:31 EEST 2023: Літак Airbus A320 приземлився.
+Sat Oct 14 14:18:31 EEST 2023: До літака Airbus A320 додано 30 пасажирів.
+Sat Oct 14 14:18:32 EEST 2023: Літак Boeing 747 вилетів.
+Sat Oct 14 14:18:32 EEST 2023: Літак Boeing 747 приземлився.
+Sat Oct 14 14:18:32 EEST 2023: До літака Boeing 747 додано 50 пасажирів.
+Sat Oct 14 14:18:32 EEST 2023: Літак Airbus A320 вилетів.
+Sat Oct 14 14:18:32 EEST 2023: Літак Airbus A320 приземлився.
+Sat Oct 14 14:18:32 EEST 2023: До літака Airbus A320 додано 30 пасажирів.

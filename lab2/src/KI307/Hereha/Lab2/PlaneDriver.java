@@ -2,7 +2,7 @@ package KI307.Hereha.Lab2;
 
 
 /**
-* Клас драйвер для демонстрації роботи класу літака.
+* Клас драйвер для демонстрації роботи класу літака
 */
 public class PlaneDriver {
     public static void main(String[] args) {
